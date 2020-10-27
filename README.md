@@ -1,6 +1,6 @@
 # Github Finder app created in React
 
-In developement (20%)
+In developement (25%)
 
 ## Available Scripts
 
